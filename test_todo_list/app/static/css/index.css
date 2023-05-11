@@ -1,0 +1,16 @@
+.completed-text {
+    position: absolute;
+    top: 10px; 
+    left: 10px; 
+    z-index: 1; 
+  }
+  
+body{
+  font-family: 'Pacifico', cursive;
+}
+
+#task-list {
+  height: 700px;
+  overflow-y: scroll;
+}
+  
